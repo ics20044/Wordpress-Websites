@@ -1,0 +1,38 @@
+--- Konpoli International ---
+
+Website URL: https://konpoli.eu
+
+if the Website is not live. You shoud Check out this demo video:
+https://vimeo.com/618179135/f92ad230e3
+
+
+Plug-ins used:
+--------------------------
+
+-All-in-One WP Migration	
+-Checkout Fields Manager for WooCommerce
+-Classic EditorDrag and Drop Multiple File Upload for WooCommerce
+-Duplicator
+-Font Awesome
+-Gravity Forms
+-Image Hover Effects Ultimate (Photo Gallery, Effects, Lightbox, Comparison or Magnifier)
+-Loco Translate
+-NS Remove Related Products for WooCommerce
+-Regenerate Thumbnails
+-Salient Core
+-Salient WPBakery Page Builder
+-Simple Custom CSS
+-Ultimate Member
+-Ultimate Member - reCAPTCHA
+-Ultimate Member - WooCommerce
+-UpdraftPlus - Backup/Restore
+-weLaunch Framework
+-WooCommerce
+-WooCommerce PDF Invoices & Packing Slips
+-WooCommerce TM Extra Product Options
+-WooCommerce Weight Based Shipping
+-WP Mail SMTP Pro
+-Wp Maximum Upload File Size
+-YITH WooCommerce Uploads Premium
+-Yoast SEO
+-Tidio Chat
